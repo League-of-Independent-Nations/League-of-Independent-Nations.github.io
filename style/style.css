@@ -1,0 +1,87 @@
+div.content {
+    padding:0 16px;
+    font-family: Aileron;
+}
+
+@font-face {
+    font-family: Aileron;
+    src: url(https://vnrl.github.io/fonts/Aileron-Regular.otf);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #777777;
+    font-family: Aileron;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+	border-radius: 25px;
+    color: #0142e8;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: #d3a802;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f7f7f7;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #0142e8;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .desc {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+  }
+  .date {
+    color: rgb(158, 158, 158);
+    font-size: 9px;
+  }
+
+  .header {
+    width: 100%;
+  }
+
+  .footer {
+    padding: 8px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #777777;
+    color: #0142e8;
+    text-align: center;
+    font-family: Aileron;
+  }
+
