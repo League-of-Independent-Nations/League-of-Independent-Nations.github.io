@@ -1,10 +1,10 @@
 div.content {
     padding:0 16px;
-    font-family: Aileron;
+    font-family: Libre Franklin;
 }
 
 @font-face {
-    font-family: Aileron;
+    font-family: Libre Franklin;
     src: url(https://vnrl.github.io/fonts/Aileron-Regular.otf);
 }
 
@@ -15,7 +15,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #0142e8;
-    font-family: Aileron;
+    font-family: Libre Franklin;
   }
   
   li {
@@ -84,6 +84,6 @@ ul {
     background-color: #777777;
     color: #0142e8;
     text-align: center;
-    font-family: Aileron;
+    font-family: Libre Franklin;
   }
 
