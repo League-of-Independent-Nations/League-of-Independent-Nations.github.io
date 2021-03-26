@@ -47,19 +47,26 @@ li a:hover {
   opacity: 1;
 }
 
-
-
-  .header {
-    width: 100%;
-  }
-
-  .footer {
-    padding: 8px;
+.header {
+    position: fixed;
+    padding: 1%;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #777777;
-    color: #0142e8;
+    background-image: url(/backgroundtranslucent.svg);
+    color: black;
+    text-align: center;
+    font-family: Libre Franklin;
+  }
+
+.footer {
+    position: fixed;
+    padding: 1%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url(/backgroundtranslucent.svg);
+    color: black;
     text-align: center;
     font-family: Libre Franklin;
   }
