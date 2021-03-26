@@ -48,7 +48,7 @@ li a:hover {
 }
 
 .footer {
-    position: fixed;
+    position: absolute;
     padding: 1%;
     left: 0;
     bottom: 0;
