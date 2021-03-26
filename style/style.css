@@ -47,30 +47,6 @@ li a:hover {
   opacity: 1;
 }
 
-.header {
-    position: fixed;
-    padding: 1%;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-image: url(/backgroundtranslucent.svg);
-    color: black;
-    text-align: center;
-    font-family: Libre Franklin;
-  }
-
-.footer {
-    position: fixed;
-    padding: 1%;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-image: url(/backgroundtranslucent.svg);
-    color: black;
-    text-align: center;
-    font-family: Libre Franklin;
-  }
-
 .post-container {
     margin: 20px 20px 0 0;  
     overflow: auto
@@ -91,3 +67,15 @@ li a:hover {
     font-weight: bold;
     font-size: 200%
 }
+
+.footer {
+    position: fixed;
+    padding: 1%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url(/backgroundtranslucent.svg);
+    color: black;
+    text-align: center;
+    font-family: Libre Franklin;
+  }
