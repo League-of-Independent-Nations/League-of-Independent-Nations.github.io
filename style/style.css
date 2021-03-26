@@ -18,7 +18,8 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-image: url(/backgroundtranslucent.svg);
+  background-repeat: no-repeat;
   position: fixed;
   top: 0;
   left: 0;
