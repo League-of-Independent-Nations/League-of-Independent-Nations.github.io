@@ -8,6 +8,11 @@ div.content {
     src: url(https://vnrl.github.io/fonts/Aileron-Regular.otf);
 }
 
+body {
+  background-image: /background.svg;
+  background-repeat: no-repeat;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -41,6 +46,8 @@ li a:hover {
   background-color: #0142e8;
   color: white;
 }
+
+
 
   .header {
     width: 100%;
