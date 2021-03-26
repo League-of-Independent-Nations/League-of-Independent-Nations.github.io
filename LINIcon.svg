@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8390"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="LINIcon.svg">
+  <defs
+     id="defs8384" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="614.1732"
+     inkscape:cy="188.97639"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1267"
+     inkscape:window-height="967"
+     inkscape:window-x="156"
+     inkscape:window-y="156"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata8387">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g8145"
+       transform="matrix(0.13845414,0,0,0.13793103,-670.77617,188.0099)">
+      <path
+         id="rect5635"
+         style="opacity:0.99;fill:#0142e8;fill-opacity:1;stroke:none;stroke-width:0.994;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.976471;paint-order:stroke markers fill"
+         d="m 4859.7534,-1363.0718 h 695 c 8.31,0 15,6.69 15,15 v 695.00002 c 0,8.31 -6.69,15 -15,15 h -695 c -8.31,0 -15,-6.69 -15,-15 v -695.00002 c 0,-8.31 6.69,-15 15,-15 z" />
+      <path
+         id="path29063-0-7-1"
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#0142e8;stroke-width:5.53752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
+         inkscape:transform-center-x="-2.5381463e-05"
+         inkscape:transform-center-y="8.9962674e-05"
+         d="m 5313.7726,-1104.6246 -78.364,104.0528 78.364,104.05287 -106.5187,-76.54909 -106.5198,76.54909 78.3639,-104.05287 -78.3639,-104.0528 106.5198,76.5491 z" />
+      <path
+         id="path29063-2-65"
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#0142e8;stroke-width:9.92912;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:transform-center-x="0.00054883015"
+         inkscape:transform-center-y="0.0002877049"
+         d="m 5207.1337,-1264.473 35.6895,229.0395 234.3494,34.8804 -234.3494,34.88031 -35.6895,229.03946 -35.6883,-229.03946 -234.3494,-34.88041 234.3494,-34.8803 z" />
+    </g>
+  </g>
+</svg>
