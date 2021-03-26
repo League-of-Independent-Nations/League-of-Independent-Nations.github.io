@@ -61,11 +61,13 @@ li a:hover {
 
 .post-content {
     margin-left: 25%;
+    font-family: Libre Franklin;
 }
 
 .post-title {
     font-weight: bold;
-    font-size: 200%
+    font-size: 200%;
+    font-family: Libre Franklin;
 }
 
 .footer {
