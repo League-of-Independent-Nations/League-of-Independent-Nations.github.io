@@ -6,6 +6,10 @@ div.content {
 body {
   background-image: url(/background.svg);
   background-repeat: no-repeat;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
 }
 
 ul {
@@ -62,7 +66,7 @@ li a:hover {
 .footer2 {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 1%;
   overflow: hidden;
   background-image: url(/backgroundtranslucent.svg);
   background-repeat: no-repeat;
@@ -70,4 +74,6 @@ li a:hover {
   left: 0;
   width: 100%;
   position: absolute;
+  text-align: center;
+  font-family: Libre Franklin;
 }
