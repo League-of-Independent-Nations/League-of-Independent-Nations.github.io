@@ -3,11 +3,6 @@ div.content {
     font-family: Libre Franklin;
 }
 
-@font-face {
-    font-family: Libre Franklin;
-    src: url(https://vnrl.github.io/fonts/Aileron-Regular.otf);
-}
-
 body {
   background-image: url(/background.svg);
   background-repeat: no-repeat;
