@@ -9,7 +9,7 @@ div.content {
 }
 
 body {
-  background-image: /background.svg;
+  background-image: url(background.svg);
   background-repeat: no-repeat;
 }
 
@@ -19,6 +19,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: white;
+  opacity: 0;
   position: fixed;
   top: 0;
   left: 0;
