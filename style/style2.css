@@ -58,3 +58,16 @@ li a:hover {
     text-align: center;
     font-family: Libre Franklin;
   }
+
+.footer2 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: url(/backgroundtranslucent.svg);
+  background-repeat: no-repeat;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  position: absolute;
+}
