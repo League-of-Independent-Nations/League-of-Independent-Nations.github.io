@@ -87,3 +87,7 @@ li a:hover {
   column-count: 2;
   column-gap: 2.5%;
 }
+
+h2 {
+  column-span: all;
+}
