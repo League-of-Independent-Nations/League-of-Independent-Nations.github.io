@@ -81,11 +81,13 @@ li a:hover {
 .columns3 {
   column-count: 3;
   column-gap: 2.5%;
+  font-family: Libre Franklin;
 }
 
 .columns2 {
   column-count: 2;
   column-gap: 2.5%;
+  font-family: Libre Franklin;
 }
 
 h1 {
