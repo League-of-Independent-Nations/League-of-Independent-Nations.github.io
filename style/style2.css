@@ -82,6 +82,8 @@ li a:hover {
   column-count: 3;
   column-gap: 2.5%;
   font-family: Libre Franklin;
+  position: relative;
+  left: 1%;
 }
 
 .columns2 {
