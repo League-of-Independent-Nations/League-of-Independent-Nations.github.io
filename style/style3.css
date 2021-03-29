@@ -15,10 +15,10 @@ ul {
   overflow: hidden;
   background-image: url(/backgroundtranslucent.svg);
   background-repeat: no-repeat;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  position: absolute;
 }
 
 li {
@@ -47,13 +47,37 @@ li a:hover {
   opacity: 1;
 }
 
+.post-container {
+    margin: 20px 20px 0 0;  
+    overflow: auto
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    display: block;
+    margin: 5% 0 0 20%;
+}
+
+.post-content {
+    margin-left: 25%;
+    font-family: Libre Franklin;
+    width: 50%;
+}
+
+.post-title {
+    font-weight: bold;
+    font-size: 200%;
+    font-family: Libre Franklin;
+}
+
 .footer {
     position: fixed;
     padding: 1%;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #ffffff;
+    background-image: url(/backgroundtranslucent.svg);
     color: black;
     text-align: center;
     font-family: Libre Franklin;
