@@ -1,6 +1,6 @@
 div.content {
     padding:0 16px;
-    font-family: Libre Franklin;
+    font-family: Cantarell;
 }
 
 body {
@@ -36,7 +36,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: Libre Franklin;
+  font-family: Cantarell;
 }
 
 li a:hover {
@@ -60,7 +60,7 @@ li a:hover {
     background-image: url(/backgroundtranslucent.svg);
     color: black;
     text-align: center;
-    font-family: Libre Franklin;
+    font-family: Cantarell;
   }
 
 .footer2 {
@@ -75,13 +75,13 @@ li a:hover {
   width: 100%;
   position: absolute;
   text-align: center;
-  font-family: Libre Franklin;
+  font-family: Cantarell;
 }
 
 .columns3 {
   column-count: 3;
   column-gap: 2.5%;
-  font-family: Libre Franklin;
+  font-family: Cantarell;
   position: relative;
   left: 1%;
 }
@@ -89,7 +89,7 @@ li a:hover {
 .columns2 {
   column-count: 2;
   column-gap: 2.5%;
-  font-family: Libre Franklin;
+  font-family: Cantarell;
 }
 
 h1 {
