@@ -21,6 +21,11 @@ ul {
   width: 100%;
 }
 
+a {
+  color: black;
+  text-decoration-line: none;
+}
+
 li {
   float: left;
 }
