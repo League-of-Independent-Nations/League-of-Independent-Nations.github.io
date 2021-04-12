@@ -72,7 +72,7 @@ li a:hover {
   background-repeat: no-repeat;
   bottom: 0;
   left: 0;
-  width: 100%;
+  width: 98%;
   position: absolute;
   text-align: center;
   font-family: Cantarell;
@@ -94,4 +94,28 @@ li a:hover {
 
 h1 {
   column-span: all;
+}
+
+.post-container {
+    margin: 20px 20px 0 0;  
+    overflow: auto
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    display: block;
+    margin: 5% 0 0 20%;
+}
+
+.post-content {
+    margin-left: 25%;
+    font-family: Cantarell;
+    width: 50%;
+}
+
+.post-title {
+    font-weight: bold;
+    font-size: 200%;
+    font-family: Cantarell;
 }
